@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![GitHub release](https://img.shields.io/github/v/release/Enthalpiex/NeoHcina)](https://github.com/Enthalpiex/NeoHcina/releases/latest)
-[![Stars](https://img.shields.io/github/stars/Enthalpiex/NeoHcina)](https://github.com/Enthalpiex/NeoHcina/stargazers)
-[![GitHub all releases](https://img.shields.io/github/downloads/Enthalpiex/NeoHcina/total)](https://github.com/Enthalpiex/NeoHcina/releases/latest)
+[![GitHub release](https://img.shields.io/github/v/release/Sle2p/AniCh)](https://github.com/Enthalpiex/NeoHcina/releases/latest)
+[![Stars](https://img.shields.io/github/stars/Sle2p/AniCh)](https://github.com/Enthalpiex/NeoHcina/stargazers)
+[![GitHub all releases](https://img.shields.io/github/downloads/Sle2p/AniCh/total)](https://github.com/Enthalpiex/NeoHcina/releases/latest)
 
 </div>
 
