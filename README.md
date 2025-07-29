@@ -4,7 +4,6 @@
 
 <div align="center">
 
->[!warning] Notice
 >Project Suspended
 
 [![GitHub release](https://img.shields.io/github/v/release/Sle2p/AniCh)](https://github.com/Enthalpiex/NeoHcina/releases/latest)
