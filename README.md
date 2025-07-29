@@ -4,6 +4,9 @@
 
 <div align="center">
 
+>[!warning] Notice
+>Project Suspended
+
 [![GitHub release](https://img.shields.io/github/v/release/Sle2p/AniCh)](https://github.com/Enthalpiex/NeoHcina/releases/latest)
 [![Stars](https://img.shields.io/github/stars/Sle2p/AniCh)](https://github.com/Enthalpiex/NeoHcina/stargazers)
 [![GitHub all releases](https://img.shields.io/github/downloads/Sle2p/AniCh/total)](https://github.com/Enthalpiex/NeoHcina/releases/latest)
